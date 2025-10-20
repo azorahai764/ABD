@@ -1,0 +1,533 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "ABD.ScondLarge.Solution",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "ABD.Learnovate.LibraryManagementSystem.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "twosum",
+      "request": "launch",
+      "mainClass": "ABC.twosum",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "multipleinheritance",
+      "request": "launch",
+      "mainClass": "ABC.multipleinheritance",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "copyconstructor",
+      "request": "launch",
+      "mainClass": "ABC.copyconstructor",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "copyconstructor",
+      "request": "launch",
+      "mainClass": "copyconstructor",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "addofarr",
+      "request": "launch",
+      "mainClass": "ABC.addofarr",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "final1",
+      "request": "launch",
+      "mainClass": "ABC.final1",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "thisandsuper_fixed",
+      "request": "launch",
+      "mainClass": "ABC.thisandsuper_fixed",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "this_and_super",
+      "request": "launch",
+      "mainClass": "ABC.this_and_super",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "ABC.swap",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "swap",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "game2",
+      "request": "launch",
+      "mainClass": "game2",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "dynamic_meth_dispatch",
+      "request": "launch",
+      "mainClass": "dynamic_meth_dispatch",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "method_overriding",
+      "request": "launch",
+      "mainClass": "method_overriding",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "this_and_super",
+      "request": "launch",
+      "mainClass": "this_and_super",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "thisandsuper_fixed",
+      "request": "launch",
+      "mainClass": "thisandsuper_fixed",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "uu",
+      "request": "launch",
+      "mainClass": "uu",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "rr",
+      "request": "launch",
+      "mainClass": "rr",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "thisandsuper",
+      "request": "launch",
+      "mainClass": "thisandsuper",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Const_Inherit",
+      "request": "launch",
+      "mainClass": "Const_Inherit",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Const_Inherit1",
+      "request": "launch",
+      "mainClass": "Const_Inherit1",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "Inheritance",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "constructor",
+      "request": "launch",
+      "mainClass": "constructor",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "getset",
+      "request": "launch",
+      "mainClass": "getset",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "guess_a_number",
+      "request": "launch",
+      "mainClass": "guess_a_number",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Guess_a_number",
+      "request": "launch",
+      "mainClass": "Guess_a_number",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "oop4",
+      "request": "launch",
+      "mainClass": "oop4",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "oop3",
+      "request": "launch",
+      "mainClass": "oop3",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "oop2",
+      "request": "launch",
+      "mainClass": "oop2",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "cellphone",
+      "request": "launch",
+      "mainClass": "cellphone",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "oop",
+      "request": "launch",
+      "mainClass": "oop",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "pattern3",
+      "request": "launch",
+      "mainClass": "pattern3",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "recursion2",
+      "request": "launch",
+      "mainClass": "recursion2",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "pattern2",
+      "request": "launch",
+      "mainClass": "pattern2",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "fibo",
+      "request": "launch",
+      "mainClass": "fibo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "recursion",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "varargs",
+      "request": "launch",
+      "mainClass": "varargs",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "samemethods",
+      "request": "launch",
+      "mainClass": "samemethods",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "method2",
+      "request": "launch",
+      "mainClass": "method2",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "method",
+      "request": "launch",
+      "mainClass": "method",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "mininarr",
+      "request": "launch",
+      "mainClass": "mininarr",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "maxinarr",
+      "request": "launch",
+      "mainClass": "maxinarr",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "revarr",
+      "request": "launch",
+      "mainClass": "revarr",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "copy",
+      "request": "launch",
+      "mainClass": "copy",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "addofarr",
+      "request": "launch",
+      "mainClass": "addofarr",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "suminarr",
+      "request": "launch",
+      "mainClass": "suminarr",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "array3",
+      "request": "launch",
+      "mainClass": "array3",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "array2",
+      "request": "launch",
+      "mainClass": "array2",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "foreach",
+      "request": "launch",
+      "mainClass": "foreach",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "multi",
+      "request": "launch",
+      "mainClass": "multi",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "sumofeven",
+      "request": "launch",
+      "mainClass": "sumofeven",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "pattern",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "RPS",
+      "request": "launch",
+      "mainClass": "RPS",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "ifelse",
+      "request": "launch",
+      "mainClass": "ifelse",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "strngmthds",
+      "request": "launch",
+      "mainClass": "strngmthds",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "stringmethods",
+      "request": "launch",
+      "mainClass": "stringmethods",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "formatspecifier",
+      "request": "launch",
+      "mainClass": "formatspecifier",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "compare",
+      "request": "launch",
+      "mainClass": "compare",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "typecast",
+      "request": "launch",
+      "mainClass": "typecast",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "operator",
+      "request": "launch",
+      "mainClass": "operator",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "KMtomiles",
+      "request": "launch",
+      "mainClass": "KMtomiles",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "input2",
+      "request": "launch",
+      "mainClass": "input2",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "percentage",
+      "request": "launch",
+      "mainClass": "percentage",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "input",
+      "request": "launch",
+      "mainClass": "input",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "literals0",
+      "request": "launch",
+      "mainClass": "literals0",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "A",
+      "request": "launch",
+      "mainClass": "A",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "hi",
+      "request": "launch",
+      "mainClass": "hi",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/java/src",
+      "program": "d:/java/src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
