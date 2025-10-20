@@ -11,6 +11,7 @@ public class Main {
             this.next = null;
         }
     }
+
         public static Node Head;
         public static Node Tail;
         public static int size;
