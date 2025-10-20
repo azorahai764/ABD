@@ -33,6 +33,21 @@ public class Main {
             Tail.next = newnode;
             Tail = newnode;
         }
+        public void addMid(int idx, int data){
+            if(idx==0){
+                addFirst(data);
+                return;
+            }
+            Node newnode=new Node(data);
+            Node temp=Head;
+            int i=0;
+            while(i<idx-1){
+                temp=temp.next;
+                i++;
+            }
+            newnode.next=temp.next;
+            temp.next=newnode;
+        }
 
         public void printList() {
             if (Head == null) {
