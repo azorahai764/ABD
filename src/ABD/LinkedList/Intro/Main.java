@@ -13,9 +13,11 @@ public class Main {
     }
         public static Node Head;
         public static Node Tail;
+        public static int size;
 
         public void addFirst(int data) {
             Node newnode = new Node(data);
+            size++;
             if (Head == null) {
                 Head = Tail = newnode;
                 return;
@@ -26,6 +28,7 @@ public class Main {
 
         public void addLast(int data) {
             Node newnode = new Node(data);
+            size++;
             if (Head == null) {
                 Head = Tail = newnode;
                 return;
@@ -39,6 +42,7 @@ public class Main {
                 return;
             }
             Node newnode=new Node(data);
+            size++;
             Node temp=Head;
             int i=0;
             while(i<idx-1){
@@ -59,7 +63,7 @@ public class Main {
                 System.out.print(temp.data + "->");
                 temp = temp.next;
             }
-            System.out.print("null");
+            System.out.print("null \n");
         }
 
 
@@ -67,8 +71,10 @@ public class Main {
         Main l=new Main();
         l.addFirst(2);
         l.addFirst(1);
-        l.addLast(3);
         l.addLast(4);
+        l.addLast(5);
+        l.addMid(2,3);
         l.printList();
+        System.out.println("Size: "+l.size);
     }
 }
